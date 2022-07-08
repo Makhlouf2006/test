@@ -1,0 +1,72 @@
+.nameRR{
+    display: inline-block;
+width: 60px;
+}
+#ko{display: inline;}
+#msn{
+    display: inline;
+padding-left:490px;
+
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color:#1f2235 ;
+}
+a{
+
+text-decoration: none;
+color: white;
+}
+#law{
+    font-weight: bold;
+}
+#now{
+    font-weight: lighter;
+}
+#gogo{
+   
+    padding-left:550px;
+ padding-bottom: 50px;
+}
+#good{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding-left:550px;
+    color: red;
+    padding-bottom:80px;
+}
+#demo{
+    padding-left: 540px;
+    color: red;
+
+}
+#nasa{
+    padding-left:100px;
+    padding-right: 100px;
+    padding-bottom:100px;
+    padding-top: 100px;
+}
+#valo{
+    padding-left:100px ;
+    padding-right: 100px;
+    padding-bottom:100px ;
+    padding-top: 100px;
+}
+#nice{
+    padding-left:200px;
+}
+#time{
+    padding-left:200px ;
+    padding-right:200px ;
+ 
+}
+
+#nasa td{
+    background-color:#23263a;
+}
+#all{
+    padding-left:50px;
+}
